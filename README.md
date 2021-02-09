@@ -1,0 +1,1 @@
+# Auto-Photo-Compressor
